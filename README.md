@@ -1,6 +1,6 @@
 # Route Planning Project
 
-This repo contains the starter code for the Route Planning project.
+Route Planning Project done during the Udacity Nanodegree in C++.
 
 <img src="map.png" width="600" height="450" />
 
